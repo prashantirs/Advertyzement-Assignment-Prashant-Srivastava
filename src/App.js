@@ -8,9 +8,10 @@ import Footer from './components/Footer';
 
 function App() {
   const [user, setUser] = useState([]);
-  const [page, setPage] = useState(1);
+  const [page, setPage] = useState(0);
   const [count, setCount] = useState(0);
   const handelClick = () => {
+    setPage(1);
     fetchUser();
     setCount(count+1);
   }
