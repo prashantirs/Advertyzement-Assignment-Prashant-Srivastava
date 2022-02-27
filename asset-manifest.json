@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Advertyzement-Assignment-Prashant-Srivastava/static/css/main.073c9b0a.css",
+    "main.js": "/Advertyzement-Assignment-Prashant-Srivastava/static/js/main.31d4cf80.js",
+    "static/media/loading.gif": "/Advertyzement-Assignment-Prashant-Srivastava/static/media/loading.4c0dabf64bfe071965aa.gif",
+    "index.html": "/Advertyzement-Assignment-Prashant-Srivastava/index.html",
+    "main.073c9b0a.css.map": "/Advertyzement-Assignment-Prashant-Srivastava/static/css/main.073c9b0a.css.map",
+    "main.31d4cf80.js.map": "/Advertyzement-Assignment-Prashant-Srivastava/static/js/main.31d4cf80.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.31d4cf80.js"
+  ]
+}
